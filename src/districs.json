@@ -1,0 +1,171 @@
+{
+    "state": "Telangana",
+    "districts": [
+      {
+        "id": 1,
+        "name": "Adilabad",
+        "code": "ADB"
+      },
+      {
+        "id": 2,
+        "name": "Bhadradri Kothagudem",
+        "code": "BKM"
+      },
+      {
+        "id": 3,
+        "name": "Hyderabad",
+        "code": "HYD"
+      },
+      {
+        "id": 4,
+        "name": "Jagtial",
+        "code": "JGL"
+      },
+      {
+        "id": 5,
+        "name": "Jangaon",
+        "code": "JGN"
+      },
+      {
+        "id": 6,
+        "name": "Jayashankar Bhupalpally",
+        "code": "JSB"
+      },
+      {
+        "id": 7,
+        "name": "Jogulamba Gadwal",
+        "code": "JGD"
+      },
+      {
+        "id": 8,
+        "name": "Kamareddy",
+        "code": "KMR"
+      },
+      {
+        "id": 9,
+        "name": "Karimnagar",
+        "code": "KRM"
+      },
+      {
+        "id": 10,
+        "name": "Khammam",
+        "code": "KHM"
+      },
+      {
+        "id": 11,
+        "name": "Kumuram Bheem Asifabad",
+        "code": "KBA"
+      },
+      {
+        "id": 12,
+        "name": "Mahabubabad",
+        "code": "MBD"
+      },
+      {
+        "id": 13,
+        "name": "Mahabubnagar",
+        "code": "MBN"
+      },
+      {
+        "id": 14,
+        "name": "Mancherial",
+        "code": "MCL"
+      },
+      {
+        "id": 15,
+        "name": "Medak",
+        "code": "MDK"
+      },
+      {
+        "id": 16,
+        "name": "Medchal-Malkajgiri",
+        "code": "MDM"
+      },
+      {
+        "id": 17,
+        "name": "Mulugu",
+        "code": "MLG"
+      },
+      {
+        "id": 18,
+        "name": "Nagarkurnool",
+        "code": "NGK"
+      },
+      {
+        "id": 19,
+        "name": "Nalgonda",
+        "code": "NLG"
+      },
+      {
+        "id": 20,
+        "name": "Narayanpet",
+        "code": "NRP"
+      },
+      {
+        "id": 21,
+        "name": "Nirmal",
+        "code": "NML"
+      },
+      {
+        "id": 22,
+        "name": "Nizamabad",
+        "code": "NZB"
+      },
+      {
+        "id": 23,
+        "name": "Peddapalli",
+        "code": "PDL"
+      },
+      {
+        "id": 24,
+        "name": "Rajanna Sircilla",
+        "code": "RSC"
+      },
+      {
+        "id": 25,
+        "name": "Rangareddy",
+        "code": "RRD"
+      },
+      {
+        "id": 26,
+        "name": "Sangareddy",
+        "code": "SGD"
+      },
+      {
+        "id": 27,
+        "name": "Siddipet",
+        "code": "SDT"
+      },
+      {
+        "id": 28,
+        "name": "Suryapet",
+        "code": "SRP"
+      },
+      {
+        "id": 29,
+        "name": "Vikarabad",
+        "code": "VKB"
+      },
+      {
+        "id": 30,
+        "name": "Wanaparthy",
+        "code": "WNP"
+      },
+      {
+        "id": 31,
+        "name": "Warangal Rural",
+        "code": "WRR"
+      },
+      {
+        "id": 32,
+        "name": "Warangal Urban",
+        "code": "WRU"
+      },
+      {
+        "id": 33,
+        "name": "Yadadri Bhuvanagiri",
+        "code": "YBG"
+      }
+    ]
+  }
+  
